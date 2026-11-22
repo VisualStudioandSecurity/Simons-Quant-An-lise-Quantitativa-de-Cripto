@@ -1,0 +1,6 @@
+{
+  "name": "Simons Quant — Análise Quantitativa de Cripto",
+  "description": "Plataforma de análise quantitativa de criptomoedas baseada na sabedoria matemática de Jim Simons (Medallion Fund): detecção de regime, Z-Score, confluência estatística, dimensionamento Half-Kelly e backtest em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
